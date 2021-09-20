@@ -11,5 +11,13 @@
     "node-sass": "^6.0.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "<<<<<<< HEAD\r # Front-end-mentorship-03\r =======\r # Front-end-mentorship-03\r >>>>>>> d4c4ad4c332c839f3df7cc03737dd5e77965a212",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Najmegdi/Front-end-mentorship-03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Najmegdi/Front-end-mentorship-03/issues"
+  },
+  "homepage": "https://github.com/Najmegdi/Front-end-mentorship-03#readme"
 }
