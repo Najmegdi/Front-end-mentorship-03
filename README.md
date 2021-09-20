@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Front-end-mentorship-03
-=======
-# Front-end-mentorship-03
->>>>>>> d4c4ad4c332c839f3df7cc03737dd5e77965a212
+A project called travel with us written with sass and will be completed later with responsive
+
